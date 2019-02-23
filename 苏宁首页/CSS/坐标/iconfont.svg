@@ -1,0 +1,29 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<!--
+2013-9-30: Created.
+-->
+<svg>
+<metadata>
+Created by iconfont
+</metadata>
+<defs>
+
+<font id="iconfont" horiz-adv-x="1024" >
+  <font-face
+    font-family="iconfont"
+    font-weight="500"
+    font-stretch="normal"
+    units-per-em="1024"
+    ascent="896"
+    descent="-128"
+  />
+    <missing-glyph />
+    
+    <glyph glyph-name="zuobiao" unicode="&#61192;" d="M487-18.45L270.13 289.2c-3.75 5.29-37.34 53.1-49.59 84.1a311.25 311.25 0 1 0 579.12 0c-10.81-27.37-39.48-70.38-42.71-75.2l-0.31-0.44-220.55-316z m23.1 757.34a251.41 251.41 0 0 1-233.75-343.54c8.15-20.64 33.65-58.63 42.78-71.52l192.24-272.76 195.91 280.69c7.91 11.81 29.47 45.59 36.58 63.59A251.31 251.31 0 0 1 510.1 738.89zM512 591a91 91 0 1 0-91-91 91.1 91.1 0 0 0 91 91m0 60a151 151 0 1 1 151-151 151 151 0 0 1-151 151z"  horiz-adv-x="1024" />
+
+    
+
+
+  </font>
+</defs></svg>

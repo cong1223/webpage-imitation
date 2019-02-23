@@ -1,0 +1,62 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+body{
+	min-height:600px;
+}
+nav{
+	position: absolute;
+	right: 15px;
+	top: 15px;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	width: 550px;
+}
+nav >a{
+	display: block;
+	color: #333;
+	font-size: 13px;
+	font-weight: 700;
+}
+.setting{
+	color: #333;
+	font-size: 13px;
+	font-weight: 700;
+}
+.setting >a{
+	color: #333;
+}
+.more{
+	width: 60px;
+	height: 24px;
+	background-color: #38f;
+	color: #fff;
+	font-size: 13px;
+	text-align: center;
+	line-height: 24px;
+}
+.logo{
+	width: 270px;
+	height: 129px;
+	/*position: absolute;*/
+	/*bottom: 65%;*/
+	/*left: 50%;*/
+	/*margin-left: -135px;*/
+}
+.logo >img{
+	width: 270px;
+	height: 129px;
+}
+.blank{
+	position: absolute;
+	top: 38.2%;
+	height: 191px;
+	width: 100%;
+}
+.search{
+	position: relative;
+	top: -191px;
+	height: 191px;
+}
